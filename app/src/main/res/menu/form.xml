@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dahai.yourprofile.activity.AboutActivity.FormActivity" >
+    <item android:id="@+id/action_save"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_save"/>
+</menu>

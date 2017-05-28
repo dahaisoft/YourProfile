@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_update"
+        android:title="@string/action_update"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_bug"
+        android:title="@string/action_bug"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_about"
+        android:title="@string/action_about"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_exit"
+        android:title="@string/action_exit"
+        android:showAsAction="never" />
+</menu>

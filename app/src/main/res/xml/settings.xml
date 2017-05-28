@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory
+        android:title="通知">
+
+        <SwitchPreference
+            android:key="boot_complete"
+            android:title="开机启动"
+            android:defaultValue="true"
+            />
+
+        <SwitchPreference
+            android:key="show_notification"
+            android:title="开启通知栏"
+            android:defaultValue="true"
+            />
+
+        <RingtonePreference
+            android:key="play_sound"
+            android:title="播放声音"
+            />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
